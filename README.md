@@ -2,10 +2,11 @@ ROJO AJAX Toolkit
 =================
 This is a custom-built, cross-browser AJAX toolkit that I developed while 
 working at IBM in 2007 as part of the DB2 Health Monitor Sample
-application bundled with the DB2 Starter Toolkit for PHP.  This was
-one of the very first AJAX toolkits that was developed and released at a 
-time when almost no commerical frameworks were available, or were in their
-infancy (e.g. DOJO).
+application bundled with the publicly released DB2 Starter Toolkit for PHP. 
+ 
+ROJO was one of the very first AJAX toolkits that was developed and released at a 
+time when almost no commerical frameworks were available, or were still in their
+infancy (e.g. dojo).
 
 
 Disclaimer
