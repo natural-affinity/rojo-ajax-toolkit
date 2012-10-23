@@ -12,8 +12,10 @@ infancy (e.g. dojo).
 Disclaimer
 -------------
 Since this toolkit was released in 2007, although it is cross-browser, 
-it has not been tested with mobile browsers.  However, many of the object-oriented
-and event bubbling techniques presented still stand the test-of-time.
+it has not been tested with mobile browsers.  
+
+However, many of the object-oriented and event bubbling techniques presented 
+still stand the test-of-time.
 
 Furthermore, since the DB2 Starter Toolkit for PHP has been removed from IBM 
 AlphaWorks, I have extracted this framework so that others may benefit from
