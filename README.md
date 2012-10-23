@@ -13,7 +13,6 @@ Disclaimer
 -------------
 Since this toolkit was released in 2007, although it is cross-browser, 
 it has not been tested with mobile browsers.  
-
 However, many of the object-oriented and event bubbling techniques presented 
 still stand the test-of-time.
 
