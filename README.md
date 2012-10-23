@@ -23,6 +23,7 @@ its distribution.
 Documentation
 -------------------
 * Please see the extensive set of documentation in the docs directory
+* Documentation template designs have been provided by IBM.
 
 
 License
